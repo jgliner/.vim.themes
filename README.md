@@ -1,5 +1,5 @@
 # .vim.themes
-A sleek grey/steel blue theme for Promptline.vim/Tmuxline.vim/Airline.vim
+Repo for my personal Promptline.vim/Tmuxline.vim/Airline.vim sleek grey/steel blue theme
 
 ## Reqs
 You will need a Vim plugin manager. I personally prefer [vim-plug](https://github.com/junegunn/vim-plug). If you use a different one, the structure should be similar.
