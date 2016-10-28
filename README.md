@@ -14,15 +14,15 @@ You will also need the following:
 ## Installation
 Copy the files in this repo to the following directories:
 ```
-../.vim/plugged/promptline.vim/autoload/promptline/presets/jdg.vim
+~/.vim/plugged/promptline.vim/autoload/promptline/presets/jdg.vim
 
-../.vim/plugged/promptline.vim/autoload/promptline/themes/jdg.vim
+~/.vim/plugged/promptline.vim/autoload/promptline/themes/jdg.vim
 
-../.vim/plugged/tmuxline.vim/autoload/tmuxline/presets/jdg.vim
+~/.vim/plugged/tmuxline.vim/autoload/tmuxline/presets/jdg.vim
 
-../.vim/plugged/tmuxline.vim/autoload/tmuxline/themes/jdg.vim
+~/.vim/plugged/tmuxline.vim/autoload/tmuxline/themes/jdg.vim
 
-../.vim/plugged/vim-airline-themes/autoload/airline/themes/jdg.vim
+~/.vim/plugged/vim-airline-themes/autoload/airline/themes/jdg.vim
 ```
 
 Then set the theme according to the respective plugin's documentation
