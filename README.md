@@ -6,14 +6,13 @@ You will need a Vim plugin manager. I personally prefer [vim-plug](https://githu
 
 You will also need the following:
 
-https://github.com/edkolev/promptline.vim
-https://github.com/edkolev/tmuxline.vim
-https://github.com/vim-airline/vim-airline-themes
+- https://github.com/edkolev/promptline.vim
+- https://github.com/edkolev/tmuxline.vim
+- https://github.com/vim-airline/vim-airline-themes
 
 
 ## Installation
-Copy the files in this repo to the following directories, then set the theme according to the respective plugin's documentation:
-
+Copy the files in this repo to the following directories:
 ```
 ../.vim/plugged/promptline.vim/autoload/promptline/presets/jdg.vim
 
@@ -25,3 +24,5 @@ Copy the files in this repo to the following directories, then set the theme acc
 
 ../.vim/plugged/vim-airline-themes/autoload/airline/themes/jdg.vim
 ```
+
+Then set the theme according to the respective plugin's documentation
